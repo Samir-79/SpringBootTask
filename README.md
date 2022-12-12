@@ -1,6 +1,6 @@
 Installation requirements:
-Java JDK 11+ (Recommended Java 17)
-Maven
+Java JDK 19
+Maven latest
 H2-Database
 IDE (Recommend Jetbrains Intellij)
 Rest Client (Recommend Postman)
